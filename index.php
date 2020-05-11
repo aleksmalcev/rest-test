@@ -2,5 +2,4 @@
 
 	require_once 'vendor/autoload.php';
 
-	session_start();
 	\RestTest\Service\Route::run();
