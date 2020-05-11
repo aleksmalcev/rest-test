@@ -1,0 +1,11 @@
+{
+  "name": "aleksmalcev/resttest",
+  "description": "test",
+  "type": "project",
+  "autoload": {
+    "psr-4": { "": "src/" }
+  },
+  "require": {
+    "php": ">=7.1"
+  }
+}
